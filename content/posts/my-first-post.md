@@ -1,7 +1,6 @@
 ---
 title: "My Search for the Perfect Editor"
 date: 2023-06-21T14:32:34-07:00
-draft: true
 ---
 From what I've seen around in several programming communities, the editor you (and other people) use is something that *always* sparks discussion. Whether it be about which one is the best, or someone is sharing their configuration, these conversations are very interesting. 
 
