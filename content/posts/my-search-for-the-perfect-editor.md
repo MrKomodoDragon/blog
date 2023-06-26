@@ -30,7 +30,7 @@ This is where I go on a little side rant about vim: I like vim. It's not that it
 
 Helix was pretty similar to vim, so I threw that out of the window. Lapce was pretty cool, but it felt way too much like VSCode to my liking. Also lapce was still a pretty young editor, and had some features I was waiting to use. so that was something I put as a maybe later.
 
-Then, I remembered about a certain editor... Emacs. This was an editor which I seen memes about on the Internet, about "ha ha you can do everything in Emacs", and how you can have an email reader and effing everything in there. But it was different, and from what I'd seen, it would be something I like. After some looking around, it seemed like Doom Emacs provided sane defaults, so I installed it and got to work. After the installation, and setting up the LSP, I have something that suits my tastes. It also has a lot of extensions, so I could use this in the future for other things too.. like wiritng this blog.
+Then, I remembered about a certain editor... Emacs. This was an editor which I seen memes about on the Internet, about "ha ha you can do everything in Emacs", and how you can have an email reader and effing everything in there. But it was different, and from what I'd seen, it would be something I like. After some looking around, it seemed like Doom Emacs provided sane defaults, so I installed it and got to work. After the installation, and setting up the LSP, I have something that suits my tastes. It also has a lot of extensions, so I could use this in the future for other things too.. like writing this blog.
 
-### Connclusion
+### Conclusion
 I think I will use a combination of Emacs and Sublime Text in the future, but who knows? Maybe I'll switch again...
